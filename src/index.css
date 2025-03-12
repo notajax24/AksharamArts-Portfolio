@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #482b4b;
+  --color-secondary: #e0aa3e;
+  --color-mainbg: linear-gradient(to right, #9bc5c3, #616161);
+}
