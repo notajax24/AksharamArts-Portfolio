@@ -72,7 +72,7 @@ export default function Header() {
           </div>
 
           {isMenuOpen && (
-            <div className="absolute top-full left-0 right-0 md:hidden bg-gray-800 shadow-lg">
+            <div className="absolute top-full left-0 right-0 md:hidden text-white bg-gray-500 shadow-lg">
               <div className="container mx-auto px-6 py-4">
                 <div className="flex flex-col space-y-4">
                   <button
