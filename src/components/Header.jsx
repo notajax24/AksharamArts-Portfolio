@@ -14,7 +14,7 @@ export default function Header() {
   };
 
   return (
-    <header className="z-50 bg-gradient-to-b to-[#0f2027] to-black relative">
+    <header className="z-50 bg-black relative">
       <nav className="container mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-4 w-full md:w-auto">
