@@ -32,7 +32,7 @@ export default function Header() {
               onClick={() => scrollToSection("home")}
               className="flex items-center mx-auto md:mx-0 cursor-pointer "
             >
-              <img src={logo} alt="Company Logo" className="h-20 w-25 p-1" />
+              <img src={logo} alt="Company Logo" className="h-20 w-25 p-1 " />
             </button>
           </div>
 
